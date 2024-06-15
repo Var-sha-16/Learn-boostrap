@@ -1,0 +1,93 @@
+{
+   
+   "credatials":{
+"username":"Ansman",
+"userprofilepic":"https://w7.pngwing.com/pngs/215/58/png-transparent-computer-icons-google-account-scalable-graphics-computer-file-my-account-icon-rim-123rf-symbol-thumbnail.png"
+   },
+    "chartData": { "labels": ["","Mar", "Apr", "May", "Jun", "Jul", "Aug"],
+    "values": [19400, 19570, 19600, 19650,19660, 19685, 19700]
+    },
+    "headerData": {
+        "equityrate": "41.85k",
+        "today": "+6874 Today",
+        "commodityrate":"11.85k",
+        "netrate":"53.7k",
+        "invested":"95.53k",
+        "current":"137.38k"
+    },
+    "detailsData":{
+"totalHoldings":"135",
+"equity":"54",
+"commodities":"25",
+"marginUsed":"14,715",
+"marginAvaliable": "24,715",
+"settlementAmount": "25,454"
+
+    },
+    "treemap": {
+        "name": "Sectors",
+        "children": [
+            { "name": "IT", "value": 300, "color": "#1f77b4" },
+            {
+                "name": "Finance & Healthcare",
+                "children": [
+                    { "name": "Finance", "value": 70, "color": "#1f5b99" },
+                    { "name": "Healthcare", "value": 130, "color": "#2ca02c" }
+                ]
+            },
+            { "name": "Realestate", "value": 200, "color": "#ff7f0e" },
+            {
+                "name": "Industrial & Others & Misc",
+                "children": [
+                    { "name": "Industrial", "value": 150, "color": "#d4d43f" },
+                    { "name": "", "value": 20.33, "color": "#9467bd" },
+                    { "name": "Other", "value": 33.34, "color": "#17becf" }
+                ]
+            }
+        ]
+    },
+    "currentData":{
+        "id1": {
+            "qty": "Qty 54",
+            "nameSector": "Automobile",
+           
+            "nameCompany": "Tata Motors",
+           
+            "Avg": "Avg 450.54",
+            "sectorRate": "+22%",
+            "companyRate": "622.54",
+            "ltp": "LTP 622.54"
+        },
+        "id2": {
+            "qty": "Qty 134",
+            "nameSector": "Power",
+           
+            "nameCompany": "Bhel",
+            "Avg": "Avg 150.54",
+            "sectorRate": "+18%",
+            "companyRate": "132.47",
+            "ltp": "LTP 132.54"
+        },
+        "id3": {
+            "qty": "Qty 34",
+            "nameSector": "Railway",
+            "nameCompany": "IRCTC",
+            "Avg": "Avg 150.54",
+            "sectorRate": "-18%",
+            "companyRate": "601.45",
+            "ltp": "LTP 132.54"
+        }
+    },
+   "pieChart": {
+        "labels": ["Factory","Other","Tech", "Realestate","Finance", "Healthcare", "Energy", "Consumer", "Utilities", "Industry","Eduction"],
+        "data": [10,10,23, 5, 5, 6, 5, 4,3, 2,8]
+      },
+      "dataCheck" :[
+        "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable",
+        "profitable", "profitable", "profitable", "non-profitable", "non-profitable", "profitable", "profitable", "non-profitable", "profitable", "profitable", "profitable", "profitable",
+        "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "non-profitable", "profitable", "profitable", "non-profitable", "profitable", "profitable",
+        "profitable", "profitable", "profitable", "non-profitable", "non-profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable",
+        "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "non-profitable", "profitable", "non-profitable", "non-profitable", "profitable",
+            "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable", "profitable"
+    ]
+}
